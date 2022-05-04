@@ -1,0 +1,28 @@
+.four-0-four-image{
+    position: relative;
+   
+} 
+.four-0-four-image img{
+    height: 82vh;
+}
+
+.four-0-four-msg{
+    position: absolute;
+    top: 40%;
+    margin: 0 auto;
+    z-index: 100;
+    font-size: 2rem;
+
+}
+
+@media (max-width: 576px){
+.four-0-four-msg{
+    position: absolute;
+    top: 40%;
+    margin: 0 auto;
+    z-index: 100;
+    font-size: 1rem;
+    background-color: rgba(0,0,0,0.2);
+
+}
+}
