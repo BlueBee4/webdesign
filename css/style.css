@@ -76,9 +76,9 @@ li{
   }
 /*--------------------------end navigation--------------------------*/
 /*---main---*/
-.cover-image-img{
-    width: 100%;
-    height: 500px;
+.cover-image img{
+    width:100%;
+    height: 600px;
 }
 
 .box{
@@ -99,4 +99,9 @@ li{
     object-fit: cover;
     width: 100%;
     height:auto; 
+}
+
+/*--footer--*/
+.footer-credit{
+    background-color: rgba(77, 73, 73, 0.5);
 }
