@@ -24,6 +24,10 @@ a:hover{
 li{
     list-style-type: none;
 }
+h3{
+    text-align: center;
+    font-weight: 600;
+}
 /*------------------------navigation------------------------------*/
 .heading{
     flex-direction: row;
